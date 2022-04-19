@@ -7,15 +7,16 @@ git add * (all files ou nome do arquivo)
 //Commit files
 git commit -m "texto de descrição"
 
-
+//Status do repositório
 git status
 
+//Cnfigurações
 git config --list
 git config --global --unset user.email
 git config --global --unset user.name
 git config --global --unset user.nickname
 
-
+//Gerenciar entradas remotas
 git remote add origin <caminho do repositório>
 git remote -v
 
