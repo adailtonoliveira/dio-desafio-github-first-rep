@@ -1,0 +1,33 @@
+//Iniciar um repositório
+git init
+
+//Adicionar arquivo (nome) ou arquivos (*)
+git add * (all files ou nome do arquivo)
+
+//Commit files
+git commit -m "texto de descrição"
+
+
+git status
+
+git config --list
+git config --global --unset user.email
+git config --global --unset user.name
+git config --global --unset user.nickname
+
+
+git remote add origin <caminho do repositório>
+git remote -v
+
+//Empurrar arquivos
+git push origin master
+
+//Puxar arquivos
+git pull
+
+//Clonar repositório
+git clone <repositório>
+
+
+
+
