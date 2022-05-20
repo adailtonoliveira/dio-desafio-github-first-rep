@@ -1,0 +1,82 @@
+body {
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+.main_header {
+    margin-top: 50px;
+}
+
+a {
+    /*text-decoration: line-through;*/
+    color: #505050;
+}
+
+.photo_top {
+    border: 1px solid #505050;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#title, .subtitle, .post_title {
+    color: #505050;
+}
+
+#title {    
+    font-size: 40px;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+.post_title {
+    font-family: Verdana, Arial;
+    font-size: 16px;
+    font-style: italic;
+    text-transform: capitalize;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid #505050;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.post_image {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list {
+    list-style-type: none; /*square;*/ /*"\1F44D";*/
+    /*list-style-image: url("http://squids.com.br/icons/folder.png");*/
+    padding-left: 15px;
+    display: flex;
+}
+
+.footer_icon {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+li {
+    padding: 15px;
+
+}
