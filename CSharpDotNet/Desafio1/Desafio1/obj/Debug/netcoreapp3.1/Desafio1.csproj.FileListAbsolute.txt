@@ -1,0 +1,14 @@
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.exe
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.deps.json
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.runtimeconfig.json
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.runtimeconfig.dev.json
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.dll
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.pdb
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.csproj.AssemblyReference.cache
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.AssemblyInfoInputs.cache
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.AssemblyInfo.cs
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.csproj.CoreCompileInputs.cache
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.dll
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.pdb
+D:\GIT\dio_bc_spread\dio-desafio-github-first-rep\CSharpDotNet\Desafio1\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.genruntimeconfig.cache
